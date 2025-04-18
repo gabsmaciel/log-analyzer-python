@@ -1,0 +1,4 @@
+2024-04-01 10:22:31 INFO User admin logged in from 192.168.0.10
+2024-04-01 10:23:14 ERROR Failed login attempt for user guest
+2024-04-01 10:25:02 WARNING Unusual activity detected from 203.0.113.99
+2024-04-01 10:30:55 INFO User maria logged out
