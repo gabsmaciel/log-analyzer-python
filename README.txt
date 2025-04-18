@@ -1,10 +1,10 @@
-# 🐍 Log Analyzer - Projeto em Python
+#Log Analyzer - Projeto em Python
 
 Este projeto é um analisador simples de arquivos de log desenvolvido em **Python**, com foco em aprendizado de automação, leitura de arquivos e conceitos iniciais de **cibersegurança**.
 
 ---
 
-## 📌 Objetivo
+##Objetivo
 
 O script lê um arquivo de log (`.log`) e resume o número de ocorrências de mensagens do tipo:
 - `INFO`
@@ -13,7 +13,7 @@ O script lê um arquivo de log (`.log`) e resume o número de ocorrências de me
 
 ---
 
-## ⚙️ Como funciona
+##Como funciona
 
 1. Lê o conteúdo de um arquivo `.log`
 2. Conta quantas vezes cada tipo de log aparece
@@ -21,14 +21,14 @@ O script lê um arquivo de log (`.log`) e resume o número de ocorrências de me
 
 ---
 
-## 🧠 Tecnologias utilizadas
+##Tecnologias utilizadas
 
 - Python 3.x
 - Visual Studio Code
 
 ---
 
-## 📚 Conceitos aplicados
+##Conceitos aplicados
 
 - Leitura e manipulação de arquivos
 - Estrutura de dicionários
@@ -38,7 +38,7 @@ O script lê um arquivo de log (`.log`) e resume o número de ocorrências de me
 
 ---
 
-## ✨ Possíveis melhorias futuras
+##Possíveis melhorias futuras
 
 - Gerar relatório `.csv` com os resultados
 - Identificar IPs suspeitos ou repetidos
